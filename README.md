@@ -1,7 +1,7 @@
 # RockPaperScissors
 A basic Rock-Paper-Scissors game in python
 
-->Beginner Level ->Pyhton
+-> ⛳️ Beginner Level -> ⛳️ Pyhton
 
 # Simple Game
 RockPaperScissors is a well know game, which is played most by children, which is fun and joyful.
